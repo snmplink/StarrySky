@@ -1,3 +1,6 @@
 [submodule "01_tutorial/01_turn_on_the_led/lib"]
 	path = 01_tutorial/01_turn_on_the_led/lib
 	url = https://github.com/snmplink/snmplink-StarrySkyLibrary
+[submodule "01_tutorial/02_flowing_water_led/lib"]
+	path = 01_tutorial/02_flowing_water_led/lib
+	url = https://github.com/snmplink/snmplink-StarrySkyLibrary
